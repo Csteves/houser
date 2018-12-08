@@ -1,0 +1,28 @@
+.step2_container{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width:80%;
+    height:75vh;
+}
+
+.step2_image_head{
+    margin:10px auto;
+    width:80%;
+}
+#imageUrl{
+    border:solid 0.5px #519872;
+    width:100%;
+
+
+}
+.step2_btns_container{
+    display: flex;
+    justify-content: space-between;
+}
+.step2_btns{
+    background-color: #3b5249;
+    color: #e5f4ec;
+    border:0;
+    padding:5px;
+}

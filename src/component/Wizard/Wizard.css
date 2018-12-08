@@ -1,0 +1,27 @@
+.main_div{
+    width:60%;
+    height:100vh;
+    background-color: #E5F4EC;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    margin:10vh 10px 0 10px;
+}
+.wiz_head{
+    display:flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    width:100%;
+}
+
+h4{
+    margin:5px 0 0 10px;
+}
+.cancel_button{
+    background-color: #fec2c2;
+    margin: 8px 5px 0 0;
+    color:#19201d;
+    border:0;
+    font-weight: 700;
+    padding:3px;
+}

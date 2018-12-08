@@ -1,0 +1,43 @@
+.house_main{
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    padding:5px;
+    background-color: #fec2c233;
+    margin:0 5px 5px 5px;
+}
+
+ul{
+ list-style-type:none;
+ margin:0;
+}
+.info_container{
+    display:flex;
+    flex-direction: column;
+
+}
+
+.mort_container{
+    display:flex;
+    flex-direction: column;
+}
+li{
+    font-size:8px;
+    margin:5px;
+}
+.house_btn{
+    font-family: inherit;
+    border:0;
+    padding:0;
+    background-color: #fec2c200;
+}
+.image_container{
+    height: 90px;
+    width:110px;
+}
+img{
+    height:100%;
+    width:100%;
+    max-width: 100%;
+    max-height: 100%;
+}

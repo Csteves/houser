@@ -1,0 +1,28 @@
+.dashboard_main{
+    margin-top:10vh;
+    width:60%;
+    background-color: #E5F4EC;
+}
+.header_container{
+    position: relative;
+    color: #3b5249;
+    padding:0 10px 0 10px;
+    margin:0;
+    height:30px;
+}
+#dash_head{
+    position: relative;
+    top:10px;
+    margin:0;
+}
+#dash_button{
+    position:absolute;
+    right:10px;
+    bottom:4px;
+    background-color: #8AEA92;
+}
+#home_listing{
+    font-weight: 1600;
+    margin:0 0 10px 30px;
+    color:#242c29
+}
